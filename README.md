@@ -7,6 +7,7 @@ pyinstaller -i lyy.ico gui.py
 但是这些代码从来没有真正在mac和linux系统测试过
 也大概率不会用到
 本项目开源版本更新至v2.5.8
+（务必遵守Easytier使用的LGPL3.0开源协议）
 
 
 
@@ -15,3 +16,4 @@ You can use
 pyinstaller -i lyy.ico gui.py
 "
 to build the project into an exe executable file. Currently, there is a lot of messy code, such as adaptations for Mac and Linux systems, but this code has never actually been tested on Mac or Linux, and is very unlikely to be used. The open-source version of this project has been updated to v2.5.8.
+(Be sure to comply with the LGPL 3.0 open-source license used by Easytier)
